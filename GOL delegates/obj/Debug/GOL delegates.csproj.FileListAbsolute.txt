@@ -1,0 +1,18 @@
+C:\Source\Code Kata\GOL delegates\GOL delegates\bin\Debug\GOL delegates.exe.config
+C:\Source\Code Kata\GOL delegates\GOL delegates\bin\Debug\GOL delegates.exe
+C:\Source\Code Kata\GOL delegates\GOL delegates\bin\Debug\GOL delegates.pdb
+C:\Source\Code Kata\GOL delegates\GOL delegates\obj\Debug\GOL delegates.csprojResolveAssemblyReference.cache
+C:\Source\Code Kata\GOL delegates\GOL delegates\obj\Debug\GOL delegates.exe
+C:\Source\Code Kata\GOL delegates\GOL delegates\obj\Debug\GOL delegates.pdb
+C:\Source\Code Kata\New folder\GOL delegates\GOL delegates\bin\Debug\GOL delegates.exe.config
+C:\Source\Code Kata\New folder\GOL delegates\GOL delegates\bin\Debug\GOL delegates.exe
+C:\Source\Code Kata\New folder\GOL delegates\GOL delegates\bin\Debug\GOL delegates.pdb
+C:\Source\Code Kata\New folder\GOL delegates\GOL delegates\obj\Debug\GOL delegates.csprojResolveAssemblyReference.cache
+C:\Source\Code Kata\New folder\GOL delegates\GOL delegates\obj\Debug\GOL delegates.exe
+C:\Source\Code Kata\New folder\GOL delegates\GOL delegates\obj\Debug\GOL delegates.pdb
+C:\Source\Code Kata\New folder\CodeKataDelegatesAction\GOL delegates\bin\Debug\GOL delegates.exe.config
+C:\Source\Code Kata\New folder\CodeKataDelegatesAction\GOL delegates\bin\Debug\GOL delegates.exe
+C:\Source\Code Kata\New folder\CodeKataDelegatesAction\GOL delegates\bin\Debug\GOL delegates.pdb
+C:\Source\Code Kata\New folder\CodeKataDelegatesAction\GOL delegates\obj\Debug\GOL delegates.csprojResolveAssemblyReference.cache
+C:\Source\Code Kata\New folder\CodeKataDelegatesAction\GOL delegates\obj\Debug\GOL delegates.exe
+C:\Source\Code Kata\New folder\CodeKataDelegatesAction\GOL delegates\obj\Debug\GOL delegates.pdb
